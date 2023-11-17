@@ -9,12 +9,12 @@ Make sure nmap and gobuster are installed
 
 
 
-git clone https://github.com/r-s-sacheth/ENUMSACT/
+    git clone https://github.com/r-s-sacheth/ENUMSACT/
 
-cd ENUMSACT
+    cd ENUMSACT
 
-chmod +x enumsact.sh
+    chmod +x enumsact.sh
 
-./enumsact.sh
+    ./enumsact.sh
 
 HAPPY HACKING :)
